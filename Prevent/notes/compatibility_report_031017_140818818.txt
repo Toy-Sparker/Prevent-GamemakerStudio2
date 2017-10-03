@@ -1,0 +1,80 @@
+Converting GML script : ${project_dir}\scripts\scrEnemy1StepHurt\scrEnemy1StepHurt.gml
+Converted description : /// @description scrEnemy1StepHurt
+
+Converting GML script : ${project_dir}\scripts\scrEnemy1StepChase\scrEnemy1StepChase.gml
+Converted description : /// @description scrEnemy1StepChase();/// @function scrEnemy1StepChase
+
+Converting GML script : ${project_dir}\scripts\scrPlayerInput\scrPlayerInput.gml
+Converted description : /// @description Player's Input
+
+Converting GML script : ${project_dir}\scripts\scrPlayerStepTalk\scrPlayerStepTalk.gml
+Converted description : /// @description WhenTalkingtoNPC
+
+Converting GML script : ${project_dir}\scripts\scrEnemyChooseNextState\scrEnemyChooseNextState.gml
+Converted description : /// @description scrEnemyChooseNextState
+
+Converting GML script : ${project_dir}\scripts\scrPlayerCollide\scrPlayerCollide.gml
+Converted description : /// @description scrPlayerCollide();/// @function scrPlayerCollide
+
+Converting GML script : ${project_dir}\scripts\scrPlayerFace\scrPlayerFace.gml
+Converted description : /// @description scrPlayerFace();/// @function scrPlayerFace
+
+Converting GML script : ${project_dir}\scripts\scrEnemy1StepWander\scrEnemy1StepWander.gml
+Converted description : /// @description scrEnemy1StepWander
+
+Converting GML script : ${project_dir}\scripts\scrPlayerStepAttack\scrPlayerStepAttack.gml
+Converted description : /// @description scrPlayerStepAttack
+
+Converting GML script : ${project_dir}\scripts\scrNpc1dialog1\scrNpc1dialog1.gml
+Converted description : /// @description scrNpc1dialog1
+
+Converting GML script : ${project_dir}\scripts\scrPlayerStepMove\scrPlayerStepMove.gml
+Converted description : /// @description Player's Setup
+
+Converting GML script : ${project_dir}\scripts\make_text\make_text.gml
+Converted description : /// @description make_text
+
+Converting GML script : ${project_dir}\scripts\set_text\set_text.gml
+Converted description : /// @description set_text(x,y,color,textspeed,soundspeed,string)/// @function set_text
+/// @param x
+/// @param y
+/// @param color
+/// @param textspeed
+/// @param soundspeed
+/// @param string
+
+Converting GML script : ${project_dir}\objects\oTest1\Step_0.gml
+Converted description : /// @description Talk to Npc Step
+
+Converting GML script : ${project_dir}\objects\oPlayer\Step_0.gml
+Converted description : /// @description Player's Step Event
+Converted string : line 4 : 'A' -> "A"
+Converted string : line 5 : 'D' -> "D"
+Converted string : line 6 : 'W' -> "W"
+Converted string : line 7 : 'S' -> "S"
+
+Font f8bitpusab has been converted to font family 8-bit pusab (Regular). Font has been regenerated, small inconsistencies may occur.
+Converting GML script : ${project_dir}\objects\oText\Step_0.gml
+Converted description : /// @description Step for Text object
+
+Converting GML script : ${project_dir}\objects\oText\Draw_64.gml
+Converted description : /// @description Render Textbox
+
+Converting GML script : ${project_dir}\objects\oElostarg1\Alarm_1.gml
+Converted description : /// @description Hurt alarm
+
+Converting GML script : ${project_dir}\objects\oElostarg1\Alarm_0.gml
+Converted description : /// @description Wander Alarm
+
+Converting GML script : ${project_dir}\objects\oElostarg1\Step_0.gml
+Converted description : /// @description Enemy's Step 
+
+Converting GML script : ${project_dir}\objects\oElostarg1\Collision_6bbe9e7a-16ea-4b04-afd3-6f80b1c8899d.gml
+Converted description : /// @description Collision with Player & Other Enemy objects
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2.
+no audiogroup for sound: snBlip1 - setting to default audio group.
+game speed set to 60
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script __global_object_depths.gml

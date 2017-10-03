@@ -1,0 +1,2 @@
+ global.next = 0;
+
